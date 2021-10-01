@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Calculator Call Test Project</string>
+    <string name="expression_edit_text_hint">Enter your expression here</string>
+    <string name="evaluate_button">Evaluate</string>
+    <string name="answer_pointer_text_view">Answer:</string>
+    <string name="multiplication_button">×</string>
+    <string name="division_button">/</string>
+    <string name="minus_button">-</string>
+    <string name="plus_button">+</string>
+    <string name="open_parenthesis_button">(</string>
+    <string name="close_parenthesis_button">)</string>
+    <string name="dot_button">.</string>
+    <string name="expression_edit_text_digits">0123456789×/-+().</string>
+    <string name="on_activity_bad_result_toast">Check your expression</string>
+    <string name="no_calculator_app_toast">Install calculator app</string>
 </resources>
